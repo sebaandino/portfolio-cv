@@ -1,0 +1,86 @@
+---
+import { basics } from "@cv";
+import Section from "../Section.astro";
+import Mail from "@/icons/Mail.astro";
+import Phone from "@/icons/Phone.astro";
+import WorldMap from "@/icons/WorldMap.astro";
+import GitHub from "@/icons/GitHub.astro";
+import LinkedIn from "@/icons/LinkedIn.astro";
+import { record } from "astro/zod";
+import { parseConfigFileTextToJson } from "typescript";
+
+const { name, label, image, email, phone, location, profiles } = basics;
+const { address, postalCode, city, countryCode, region } = location;
+
+const SOCIAL_ICONS: Record<string, any> = { GitHub, LinkedIn };
+---
+
+<Section>
+    <div class="container">
+        <div class="info">
+            <h1>{name}</h1>
+            <h2>{label}</h2>
+            <span>
+                <WorldMap /> {city} {region}  C.P:{postalCode}
+            </span>
+            <footer>
+                {
+                    email && (
+                        <a
+                            href={`mailto:${email}`}
+                            title={`Enviar un correo a ${name} al correo ${email}`}
+                            target="_blank"
+                        >
+                            <Mail />
+                        </a>
+                    )
+                }
+                {
+                    phone && (
+                        <a
+                            href={`tel:${phone}`}
+                            title={`llamar a ${name} al teléfono ${phone}`}
+                            target="_blank"
+                        >
+                            <Phone />
+                        </a>
+                    )
+                }
+
+                {
+                profiles.map(({network,username, url}) => {
+                    const Icon = SOCIAL_ICONS[network];
+                    return (
+                        <a
+                            href={url}
+                            title={`visitar el perfil de ${name} en ${network}`}
+                            target="_blank"
+                        >
+                            <Icon />
+                        </a>
+                    )
+                })}
+
+            </footer>
+        </div>
+        <figure>
+            <img src={image} alt={name} />
+        </figure>
+    </div>
+</Section>
+
+<style>
+
+    .container {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        width: 100%;
+    }
+
+
+
+
+</style>

@@ -1,0 +1,140 @@
+{
+    "basics": {
+        "name": "Elias Sebastian Agustin Andino",
+        "label": "Full Stack Developer",
+        "image": "https://avatars.githubusercontent.com/sebaandino",
+        "email": "elias_andino@gmail.com",
+        "phone": "+54 11 1111111",
+        "url": " https://eliasandino.com",
+        "summary": "Soy un programador Java con experiencia en SpringBoot, apasionado por enfrentar nuevos desafíos y desarrollar soluciones. Comprometido a seguir aprendiendo",
+        "location": {
+            "address": "",
+            "postalCode": "1716",
+            "city": "Merlo,BsAs",
+            "countryCode": "ES",
+            "region": "Argentina"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "elias sebastian agustin andino",
+                "url": "https://www.linkedin.com/in/elias-sebastian-agustin-andino-9286a12b2"
+            },
+            {
+                "network": "GitHub",
+                "username": "sebaandino",
+                "url": "https://github.com/sebaandino"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "",
+            "position": "",
+            "url": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": "",
+            "highlights": [
+                ""
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "",
+            "position": "",
+            "url": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": "",
+            "highlights": [
+                ""
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "",
+            "url": "",
+            "area": "",
+            "studyType": "",
+            "startDate": "",
+            "endDate": "",
+            "score": "",
+            "courses": [
+                ""
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Certificate",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "level": "Medio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "fluency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "fluency": "Medio"
+        }
+    ],
+    "interests": [
+        {
+            "name": "",
+            "keywords": [
+                ""
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "",
+            "reference": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "",
+            "isActive": "",
+            "description": "",
+            "highlights": [
+                ""
+            ],
+            "url": ""
+        }
+    ]
+}

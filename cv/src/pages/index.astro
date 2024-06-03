@@ -1,0 +1,29 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import Hero from '@/components/sections/Hero.astro';
+import About from '@/components/sections/About.astro';
+import Education from '@/components/sections/Education.astro';
+import Experience from '@/components/sections/Experience.astro';
+import Skills from '@/components/sections/Skills.astro';
+import KeyboardManager from '@/components/sections/KeyboardManager.astro';
+---
+
+<Layout title="Portfolio Andino Elias">
+	<main>
+		<Hero />
+		<About />
+		<Education />
+		<Experience />
+		<Skills />
+	</main>
+	<KeyboardManager />
+</Layout>
+
+<style>
+	
+	main {
+		padding: 4rem;
+		margin: auto;
+		width: 100%;
+	}
+</style>
