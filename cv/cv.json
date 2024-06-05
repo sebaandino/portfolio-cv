@@ -3,8 +3,8 @@
         "name": "Elias Sebastian Agustin Andino",
         "label": "Full Stack Developer",
         "image": "https://avatars.githubusercontent.com/sebaandino",
-        "email": "elias_andino@gmail.com",
-        "phone": "+54 11 1111111",
+        "email": "elias_andino@hotmail.com",
+        "phone": "+54 11 32901512",
         "url": " https://eliasandino.com",
         "summary": "Soy un programador Java con experiencia en SpringBoot, apasionado por enfrentar nuevos desafíos y desarrollar soluciones. Comprometido a seguir aprendiendo",
         "location": {
@@ -55,12 +55,52 @@
     ],
     "education": [
         {
-            "institution": "",
+            "institution": "Escuela de Educacion Secundaria Tecnica N 5",
+            "title":"Tecnico en informática personal y profesional",
             "url": "",
             "area": "",
-            "studyType": "",
+            "studyType": "Secundaria",
             "startDate": "",
-            "endDate": "",
+            "endDate": "dic-2016",
+            "score": "",
+            "courses": [
+                ""
+            ]
+        },
+        {
+            "institution": "Centro Universitario de Idiomas",
+            "title":"Ingles General para Desarrollo  de Software",
+            "url": "",
+            "area": "",
+            "studyType": "Curso",
+            "startDate": "",
+            "endDate": "nov-2023",
+            "score": "",
+            "courses": [
+                ""
+            ]
+        },
+        {
+            "institution": "Argentina Programa",
+            "title":"Desarrollo Java Intermedio",
+            "url": "",
+            "area": "",
+            "studyType": "Curso",
+            "startDate": "",
+            "endDate": "sept-2023",
+            "score": "",
+            "courses": [
+                ""
+            ]
+        },
+        {
+            "institution": "Educacion IT",
+            "title":"Introducción a la Programación",
+            "url": "",
+            "area": "",
+            "studyType": "Curso",
+            "startDate": "",
+            "endDate": "abr-2024",
             "score": "",
             "courses": [
                 ""
@@ -75,9 +115,9 @@
             "summary": "There is no spoon."
         }
     ],
-    "certificates": [
+    "cursos": [
         {
-            "name": "Certificate",
+            "name": "Desarrollo Java Intermedio ",
             "date": "2021-11-07",
             "issuer": "Company",
             "url": "https://certificate.com"
@@ -100,7 +140,73 @@
                 "Desarrollo Web",
                 "Frontend"
             ]
+        },
+        {
+            "name": "CSS",
+            "level": "Medio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "Java",
+            "level": "Medio",
+            "keywords": [
+                "Backend",
+                "POO",
+                "JPA",
+                "Hibernate",
+                "Spring",
+                "Spring Boot"
+            ]
+        },
+        {
+            "name": "JPA",
+            "level": "Medio",
+            "keywords": [
+                "Backend",
+                "POO",
+                "JPA",
+                "Hibernate",
+                "Spring",
+                "Spring Boot"
+            ]
+        },
+        {
+            "name": "Spring Boot",
+            "level": "Medio",
+            "keywords": [
+                "Desarrollo Web",
+                "Backend"
+            ]
+        },{
+            "name": "Spring Boot Security",
+            "level": "Medio",
+            "keywords": [
+                "Desarrollo Web",
+                "Backend"
+            ]
+        },{
+            "name": "Astro",
+            "level": "Medio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Astro",
+                "Astro.js"
+            ]
+        },
+        {
+            "name": "MySQL",
+            "level": "Medio",
+            "keywords": [
+                "Desarrollo Web",
+                "database",
+                "SQL"
+            ]
         }
+
     ],
     "languages": [
         {
