@@ -6,7 +6,7 @@
         "email": "elias_andino@hotmail.com",
         "phone": "+54 11 32901512",
         "url": " https://eliasandino.com",
-        "summary": "Soy un programador Java con experiencia en SpringBoot, apasionado por enfrentar nuevos desafíos y desarrollar soluciones. Comprometido a seguir aprendiendo",
+        "summary": "Soy un programador Java con experiencia en SpringBoot, apasionado por enfrentar nuevos desafíos y desarrollar soluciones. Comprometido a seguir aprendiendo , Actualmente cursando Java Full Stack del trayecto formativo de programación `Buenos Aires Aprende`.",
         "location": {
             "address": "",
             "postalCode": "1716",
@@ -150,6 +150,14 @@
             ]
         },
         {
+            "name": "Tailwind",
+            "level": "Medio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend"
+            ]
+        },
+        {
             "name": "Java",
             "level": "Medio",
             "keywords": [
@@ -204,6 +212,14 @@
                 "Desarrollo Web",
                 "database",
                 "SQL"
+            ]
+        },
+        {
+            "name": "MongoDB",
+            "level": "Medio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend"
             ]
         }
 
