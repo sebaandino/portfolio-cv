@@ -6,7 +6,7 @@
         "email": "elias_andino@hotmail.com",
         "phone": "+54 11 32901512",
         "url": " https://eliasandino.com",
-        "summary": "Soy un programador Java con experiencia en SpringBoot, apasionado por enfrentar nuevos desafíos y desarrollar soluciones. Comprometido a seguir aprendiendo , Actualmente cursando Java Full Stack del trayecto formativo de programación `Buenos Aires Aprende`.",
+        "summary": "Soy un programador Java con experiencia en SpringBoot, apasionado por enfrentar nuevos desafíos y desarrollar soluciones. Comprometido a seguir aprendiendo.",
         "location": {
             "address": "",
             "postalCode": "1716",
@@ -101,6 +101,19 @@
             "studyType": "Curso",
             "startDate": "",
             "endDate": "abr-2024",
+            "score": "",
+            "courses": [
+                ""
+            ]
+        },
+        {
+            "institution": "Buenos Aires Aprende",
+            "title":"Java Full Stack",
+            "url": "",
+            "area": "",
+            "studyType": "Curso",
+            "startDate": "",
+            "endDate": "ago-2024",
             "score": "",
             "courses": [
                 ""
