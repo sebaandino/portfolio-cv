@@ -6,19 +6,19 @@ import Phone from "@/icons/Phone.astro";
 import WorldMap from "@/icons/WorldMap.astro";
 import GitHub from "@/icons/GitHub.astro";
 import LinkedIn from "@/icons/LinkedIn.astro";
+import CalendarIcon from "@/icons/CalendarIcon.astro";
 
-const { name, label, image, email, phone, location, profiles } = basics;
+const { name, label, image, dateOfBirth,email, phone, location, profiles } = basics;
 const { address, postalCode, city, countryCode, region } = location;
 
 const SOCIAL_ICONS: Record<string, any> = { GitHub, LinkedIn };
 ---
 
-<Section>
     <div class="container">
         <div class="info">
             <h1>{name}</h1>
-            <h2>{label}</h2>
-            <span class="flex flex-row items-center text-pretty">
+            <h2 class="flex items-center gap-2"><CalendarIcon/>{dateOfBirth}</h2>
+            <span class="flex flex-row items-center text-pretty gap-2">
                 <WorldMap />
                 {city}
                 {region} C.P. {postalCode}
@@ -64,14 +64,12 @@ const SOCIAL_ICONS: Record<string, any> = { GitHub, LinkedIn };
             <div id="print" class="hidden items-center">
                <Mail />{email}
                <Phone />{phone}
-               <LinkedIn />
             </div>
         </div>
         <figure>
             <img src={image} alt={name} />
         </figure>
     </div>
-</Section>
 
 <style>
     .container {

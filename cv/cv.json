@@ -3,10 +3,11 @@
         "name": "Elias Sebastian Agustin Andino",
         "label": "Full Stack Developer",
         "image": "https://avatars.githubusercontent.com/sebaandino",
+        "dateOfBirth": "16/04/1998",
         "email": "elias_andino@hotmail.com",
         "phone": "+54 11 32901512",
         "url": " https://eliasandino.com",
-        "summary": "Soy un programador Java con experiencia en SpringBoot, apasionado por enfrentar nuevos desafíos y desarrollar soluciones. Comprometido a seguir aprendiendo.",
+        "summary": "Soy una persona proactiva y versátil, con experiencia en diferentes áreas como atención al cliente, logística y ventas. Me caracterizo por ser adaptable y capaz de aprender rápidamente en entornos cambiantes. Busco seguir desarrollándome profesionalmente en roles que me permitan aplicar mis habilidades y adquirir nuevos conocimientos.",
         "location": {
             "address": "",
             "postalCode": "1716",
@@ -27,16 +28,49 @@
             }
         ]
     },
-    "work": [
+    "experience": [
         {
-            "name": "",
-            "position": "",
-            "url": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": "",
-            "highlights": [
-                ""
+            "puesto": "Mozo en Eventos",
+            "lugar": "Diversos Eventos",
+            "fechas": "Mes/Año - Mes/Año",
+            "responsabilidades": [
+                "Atención al cliente durante eventos.",
+                "Coordinación con otros miembros del equipo.",
+                "Gestión de múltiples tareas en un entorno dinámico.",
+                "Resolución de problemas y manejo de quejas."
+            ]
+        },
+        {
+            "puesto": "Trabajador en Depósito de Cocinas Industriales",
+            "lugar": "Nombre del Depósito",
+            "fechas": "Mes/Año - Mes/Año",
+            "responsabilidades": [
+                "Descarga y organización de cocinas industriales.",
+                "Manejo de inventario y control de productos.",
+                "Verificación de pedidos y coordinación con el equipo para los envios.",
+                "Atención al detalle en la recepción y envío de productos."
+            ]
+        },
+        {
+            "puesto": "Taller de Serigrafía",
+            "lugar": "Nombre del Taller",
+            "fechas": "Mes/Año - Mes/Año",
+            "responsabilidades": [
+                "Diseño y producción de prendas mediante técnicas de serigrafía.",
+                "Venta de productos en eventos y shows musicales.",
+                "Manejo de inventario y control de dinero.",
+                "Atención al cliente y recomendaciones personalizadas."
+            ]
+        },
+        {
+            "puesto": "Reparador de Termofusoras",
+            "lugar": "Nombre del Taller",
+            "fechas": "Mes/Año - Mes/Año",
+            "responsabilidades": [
+                "Diagnóstico y reparación de fallas en equipos de termofusión.",
+                "Mantenimiento preventivo y correctivo de equipos.",
+                "Uso de herramientas específicas para reparaciones.",
+                "Atención a detalles técnicos para garantizar reparaciones de calidad."
             ]
         }
     ],
@@ -55,8 +89,8 @@
     ],
     "education": [
         {
-            "institution": "Escuela de Educacion Secundaria Tecnica N 5",
-            "title":"Tecnico en informática personal y profesional",
+            "institution": "E.E.S.T  Nº 5",
+            "title": "Tecnico en informática personal y profesional",
             "url": "",
             "area": "",
             "studyType": "Secundaria",
@@ -69,7 +103,7 @@
         },
         {
             "institution": "Centro Universitario de Idiomas",
-            "title":"Ingles General para Desarrollo  de Software",
+            "title": "Ingles General para Desarrollo  de Software",
             "url": "",
             "area": "",
             "studyType": "Curso",
@@ -81,26 +115,13 @@
             ]
         },
         {
-            "institution": "Argentina Programa",
-            "title":"Desarrollo Java Intermedio",
+            "institution": "Buenos Aires Aprende",
+            "title": "Java Full Stack",
             "url": "",
             "area": "",
             "studyType": "Curso",
             "startDate": "",
-            "endDate": "sept-2023",
-            "score": "",
-            "courses": [
-                ""
-            ]
-        },
-        {
-            "institution": "Educacion IT",
-            "title":"Introducción a la Programación",
-            "url": "",
-            "area": "",
-            "studyType": "Curso",
-            "startDate": "",
-            "endDate": "abr-2024",
+            "endDate": "ago-2024",
             "score": "",
             "courses": [
                 ""
@@ -108,7 +129,7 @@
         },
         {
             "institution": "Buenos Aires Aprende",
-            "title":"Java Full Stack",
+            "title": "Habilidades Blandas",
             "url": "",
             "area": "",
             "studyType": "Curso",
@@ -147,95 +168,38 @@
     ],
     "skills": [
         {
-            "name": "HTML",
+            "name": "Desarrollo Web",
             "level": "Medio",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend"
-            ]
+            "keywords": []
         },
         {
-            "name": "CSS",
+            "name": "Atencion al cliente",
             "level": "Medio",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend"
-            ]
+            "keywords": []
         },
         {
-            "name": "Tailwind",
+            "name": "Trabajo en equipo",
             "level": "Medio",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend"
-            ]
+            "keywords": []
         },
         {
-            "name": "Java",
+            "name": "Organizacion",
             "level": "Medio",
-            "keywords": [
-                "Backend",
-                "POO",
-                "JPA",
-                "Hibernate",
-                "Spring",
-                "Spring Boot"
-            ]
+            "keywords": []
         },
         {
-            "name": "JPA",
+            "name": "Gestion de documentos y archivos",
             "level": "Medio",
-            "keywords": [
-                "Backend",
-                "POO",
-                "JPA",
-                "Hibernate",
-                "Spring",
-                "Spring Boot"
-            ]
+            "keywords": []
         },
         {
-            "name": "Spring Boot",
+            "name": "Resolucion de problemas tecnicos",
             "level": "Medio",
             "keywords": [
                 "Desarrollo Web",
                 "Backend"
-            ]
-        },{
-            "name": "Spring Boot Security",
-            "level": "Medio",
-            "keywords": [
-                "Desarrollo Web",
-                "Backend"
-            ]
-        },{
-            "name": "Astro",
-            "level": "Medio",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "Astro",
-                "Astro.js"
-            ]
-        },
-        {
-            "name": "MySQL",
-            "level": "Medio",
-            "keywords": [
-                "Desarrollo Web",
-                "database",
-                "SQL"
-            ]
-        },
-        {
-            "name": "MongoDB",
-            "level": "Medio",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend"
             ]
         }
-
     ],
     "languages": [
         {

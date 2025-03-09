@@ -1,10 +1,10 @@
 ---
-import Section from "../Section.astro"
-import { basics } from "@cv"
-
-const { summary } = basics
+import { basics } from "@cv";
+const { summary } = basics;
+import Abouticon from "@/icons/Abouticon.astro";
 ---
 
-<Section title="Sobre mí">
-    <p class="text-base">{summary}</p>
-</Section>
+<section class="flex flex-col gap-2">
+    <h2 class="text-xl font-bold flex"><Abouticon/>Sobre mi</h2>
+    <p>{summary}</p>
+</section>

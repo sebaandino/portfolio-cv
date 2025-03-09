@@ -1,20 +1,20 @@
 ---
-import Section from "../Section.astro";
 import { skills } from "@cv";
+import SkillsIcon from "@/icons/SkillsIcon.astro";
 ---
-
-<Section title="Skills">
-    <ul class="inline-flex flex-row gap-4 items-center flex-wrap">
+<section class="flex flex-col gap-4 w-full">
+<h2 class="font-bold text-xl flex "><SkillsIcon/>Skills</h2>
+    <ul class="inline-flex flex-row gap-3 items-center flex-wrap">
         {
             skills.map(({ name, level }) => {
                 return (
                     <li>
-                        <h3 class="border-2 p-1 px-4 text-sm text-nowrap rounded-xl">
+                        <h3 class="border-2 p-1 px-4 text-sm text-wrap rounded-xl">
                             {name}
                         </h3>
                     </li>
                 );
             })
         }
-    </ul></Section
->
+    </ul>
+</section>
