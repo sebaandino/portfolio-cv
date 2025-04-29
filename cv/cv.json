@@ -1,13 +1,13 @@
 {
     "basics": {
-        "name": "Elias Sebastian Agustin Andino",
-        "label": "Full Stack Developer",
-        "image": "https://avatars.githubusercontent.com/sebaandino",
-        "dateOfBirth": "16/04/1998",
-        "email": "elias_andino@hotmail.com",
-        "phone": "+54 11 32901512",
+        "name": "Rocio Abril Sanchez",
+        "label": "",
+        "image": "/public/foto.jpg",
+        "dateOfBirth": "09/10/2000",
+        "email": "rocioaabril10@hotmail.com",
+        "phone": "+54 11 39064966",
         "url": " https://eliasandino.com",
-        "summary": "Soy una persona proactiva y versátil, con experiencia en diferentes áreas como atención al cliente, logística y ventas. Me caracterizo por ser adaptable y capaz de aprender rápidamente en entornos cambiantes. Busco seguir desarrollándome profesionalmente en roles que me permitan aplicar mis habilidades y adquirir nuevos conocimientos.",
+        "summary": "Soy una persona proactiva y versátil, con experiencia en diferentes áreas como atención al cliente, logística y ventas. Me caracterizo por ser adaptable y capaz de aprender rápidamente en entornos cambiantes. Busco seguir creciendo profesionalmente en roles que me permitan aplicar mis habilidades y adquirir nuevos conocimientos.",
         "location": {
             "address": "",
             "postalCode": "1716",
@@ -16,64 +16,59 @@
             "region": "Argentina"
         },
         "profiles": [
-            {
-                "network": "LinkedIn",
-                "username": "elias sebastian agustin andino",
-                "url": "https://www.linkedin.com/in/elias-sebastian-agustin-andino-9286a12b2"
-            },
-            {
-                "network": "GitHub",
-                "username": "sebaandino",
-                "url": "https://github.com/sebaandino"
-            }
         ]
     },
     "experience": [
         {
-            "puesto": "Mozo en Eventos",
-            "lugar": "Diversos Eventos",
-            "fechas": "Mes/Año - Mes/Año",
+            "puesto": "Vendedora",
+            "lugar": "Dos Chingadas",
+            "fechas": "Mar/2019 - Mar/2020",
             "responsabilidades": [
-                "Atención al cliente durante eventos.",
-                "Coordinación con otros miembros del equipo.",
-                "Gestión de múltiples tareas en un entorno dinámico.",
-                "Resolución de problemas y manejo de quejas."
+                "Control de Stock.",
+                "Atencion al Cliente.",
+                "Manejo de la caja.",
+                "Manejo de redes sociales."
             ]
         },
         {
-            "puesto": "Trabajador en Depósito de Cocinas Industriales",
-            "lugar": "Nombre del Depósito",
-            "fechas": "Mes/Año - Mes/Año",
+            "puesto": "Atencion al Cliente",
+            "lugar": "Sabores de Noia",
+            "fechas": "Dic/2021 - May/2022",
             "responsabilidades": [
-                "Descarga y organización de cocinas industriales.",
-                "Manejo de inventario y control de productos.",
-                "Verificación de pedidos y coordinación con el equipo para los envios.",
-                "Atención al detalle en la recepción y envío de productos."
+                "Atencion al Cliente.",
+                "Manejo de la caja."
             ]
         },
         {
-            "puesto": "Taller de Serigrafía",
-            "lugar": "Nombre del Taller",
-            "fechas": "Mes/Año - Mes/Año",
+            "puesto": "Atencion en Centro de Estetica",
+            "lugar": "Zochlo Nails",
+            "fechas": "jun/2022 - Jul/2023",
             "responsabilidades": [
-                "Diseño y producción de prendas mediante técnicas de serigrafía.",
-                "Venta de productos en eventos y shows musicales.",
-                "Manejo de inventario y control de dinero.",
-                "Atención al cliente y recomendaciones personalizadas."
+                "Atencion al Cliente.",
+                "Manejo de Redes Sociales."
             ]
         },
         {
-            "puesto": "Reparador de Termofusoras",
-            "lugar": "Nombre del Taller",
-            "fechas": "Mes/Año - Mes/Año",
+            "puesto": "Vendedora",
+            "lugar": "Silvina Tauro",
+            "fechas": "Ago/2023 - ene/2024",
             "responsabilidades": [
-                "Diagnóstico y reparación de fallas en equipos de termofusión.",
-                "Mantenimiento preventivo y correctivo de equipos.",
-                "Uso de herramientas específicas para reparaciones.",
-                "Atención a detalles técnicos para garantizar reparaciones de calidad."
+                "Atencion al Cliente.",
+                "Manejo de la caja.",
+                "Control de Stock."
+            ]
+        },
+        {
+            "puesto": "Atencion en Centro de Estetica",
+            "lugar": "Athomik Nails",
+            "fechas": "Mar/2024 - Actualidad",
+            "responsabilidades": [
+                "Atencion al Cliente.",
+                "Manejo de la caja.",
+                "Manejo de redes sociales."
             ]
         }
-    ],
+        ],
     "volunteer": [
         {
             "organization": "",
@@ -89,52 +84,13 @@
     ],
     "education": [
         {
-            "institution": "E.E.S.T  Nº 5",
-            "title": "Tecnico en informática personal y profesional",
+            "institution": "Escuela Media Nº 10", 
+            "title": "Bachiller en Ciencias Sociales",
             "url": "",
             "area": "",
             "studyType": "Secundaria",
             "startDate": "",
-            "endDate": "dic-2016",
-            "score": "",
-            "courses": [
-                ""
-            ]
-        },
-        {
-            "institution": "Centro Universitario de Idiomas",
-            "title": "Ingles General para Desarrollo  de Software",
-            "url": "",
-            "area": "",
-            "studyType": "Curso",
-            "startDate": "",
-            "endDate": "nov-2023",
-            "score": "",
-            "courses": [
-                ""
-            ]
-        },
-        {
-            "institution": "Buenos Aires Aprende",
-            "title": "Java Full Stack",
-            "url": "",
-            "area": "",
-            "studyType": "Curso",
-            "startDate": "",
-            "endDate": "ago-2024",
-            "score": "",
-            "courses": [
-                ""
-            ]
-        },
-        {
-            "institution": "Buenos Aires Aprende",
-            "title": "Habilidades Blandas",
-            "url": "",
-            "area": "",
-            "studyType": "Curso",
-            "startDate": "",
-            "endDate": "ago-2024",
+            "endDate": "dic-2018",
             "score": "",
             "courses": [
                 ""
@@ -168,11 +124,6 @@
     ],
     "skills": [
         {
-            "name": "Desarrollo Web",
-            "level": "Medio",
-            "keywords": []
-        },
-        {
             "name": "Atencion al cliente",
             "level": "Medio",
             "keywords": []
@@ -191,14 +142,6 @@
             "name": "Gestion de documentos y archivos",
             "level": "Medio",
             "keywords": []
-        },
-        {
-            "name": "Resolucion de problemas tecnicos",
-            "level": "Medio",
-            "keywords": [
-                "Desarrollo Web",
-                "Backend"
-            ]
         }
     ],
     "languages": [
