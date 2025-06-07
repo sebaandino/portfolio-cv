@@ -7,7 +7,7 @@
         "email": "elias_andino@hotmail.com",
         "phone": "+54 11 32901512",
         "url": " https://eliasandino.com",
-        "summary": "Soy una persona proactiva y versátil, con experiencia en diferentes áreas como atención al cliente, logística y ventas. Me caracterizo por ser adaptable y capaz de aprender rápidamente en entornos cambiantes. Busco seguir desarrollándome profesionalmente en roles que me permitan aplicar mis habilidades y adquirir nuevos conocimientos.",
+        "summary": "Soy una persona proactiva y versátil, con experiencia en diferentes áreas como logística, atención al cliente y ventas. Me caracterizo por ser adaptable y capaz de aprender rápidamente en entornos cambiantes. Busco seguir desarrollándome profesionalmente en roles que me permitan aplicar mis habilidades y adquirir nuevos conocimientos.",
         "location": {
             "address": "",
             "postalCode": "1716",
@@ -30,31 +30,21 @@
     },
     "experience": [
         {
-            "puesto": "Mozo en Eventos",
-            "lugar": "Diversos Eventos",
-            "fechas": "Mes/Año - Mes/Año",
+            "puesto": "Operario de Deposito",
+            "lugar": "Solo Deportes",
+            "fechas": "dic/2024 - jul/2025",
             "responsabilidades": [
-                "Atención al cliente durante eventos.",
-                "Coordinación con otros miembros del equipo.",
                 "Gestión de múltiples tareas en un entorno dinámico.",
-                "Resolución de problemas y manejo de quejas."
-            ]
-        },
-        {
-            "puesto": "Trabajador en Depósito de Cocinas Industriales",
-            "lugar": "Nombre del Depósito",
-            "fechas": "Mes/Año - Mes/Año",
-            "responsabilidades": [
-                "Descarga y organización de cocinas industriales.",
-                "Manejo de inventario y control de productos.",
-                "Verificación de pedidos y coordinación con el equipo para los envios.",
-                "Atención al detalle en la recepción y envío de productos."
+                "Carga y descarga de la mercaderia para el reparto a distintos puntos de entrega.",
+                "Control de calidad y verificación del estado de la mercadería.",
+                "Etiquetado y clasificación de productos.",
+                "Preparación de pedidos y picking dentro del depósito."
             ]
         },
         {
             "puesto": "Taller de Serigrafía",
-            "lugar": "Nombre del Taller",
-            "fechas": "Mes/Año - Mes/Año",
+            "lugar": "",
+            "fechas": "",
             "responsabilidades": [
                 "Diseño y producción de prendas mediante técnicas de serigrafía.",
                 "Venta de productos en eventos y shows musicales.",
@@ -64,8 +54,8 @@
         },
         {
             "puesto": "Reparador de Termofusoras",
-            "lugar": "Nombre del Taller",
-            "fechas": "Mes/Año - Mes/Año",
+            "lugar": "",
+            "fechas": "",
             "responsabilidades": [
                 "Diagnóstico y reparación de fallas en equipos de termofusión.",
                 "Mantenimiento preventivo y correctivo de equipos.",
@@ -168,7 +158,12 @@
     ],
     "skills": [
         {
-            "name": "Desarrollo Web",
+            "name": "Trabajo en equipo",
+            "level": "Medio",
+            "keywords": []
+        },
+        {
+            "name": "Gestion y Logistica",
             "level": "Medio",
             "keywords": []
         },
@@ -178,17 +173,12 @@
             "keywords": []
         },
         {
-            "name": "Trabajo en equipo",
+            "name": "Desarrollo Web",
             "level": "Medio",
             "keywords": []
         },
         {
             "name": "Organizacion",
-            "level": "Medio",
-            "keywords": []
-        },
-        {
-            "name": "Gestion de documentos y archivos",
             "level": "Medio",
             "keywords": []
         },

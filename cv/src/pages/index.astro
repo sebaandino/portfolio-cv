@@ -11,8 +11,10 @@ import Experience from "@/components/sections/Experience.astro";
 <Layout title="Portfolio Andino Elias">
 	<main class="w-dvw p-16 gap-6 flex flex-col">
 		<Hero />
-		<About />
-		<Skills />
+		<div class="grid grid-cols-2 gap-y-4 gap-x-2">
+			<About />
+			<Skills />
+		</div>
 		<Experience />
 		<Education />
 	</main>
